@@ -5,7 +5,7 @@ Pre-requisites: cv2 module, keras, numpy and pillow library.
 Step 1: Created Dataset of images using cv2 module from collecting samples code. Adjust location according to your comfort
 and i used the same code for Training and Validation dataset by changing location and changing number of count images.
 
-For proper face detection i have used harcascade classifier.
+For proper face detection i have used haarcascade classifier.
 
 NOTE: Dataset must be in following order : Dataset -> Training , Testing -> Classes of Dataset in each folder with photos
 
