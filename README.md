@@ -1,8 +1,5 @@
-# Face_Recog_VGG16
-Problem:
-Create a Face Recog. Model using VGG16 pre-trained model
+# Face_Recog_VGG16 model
 
-Solution:
 Pre-requisites: cv2 module, keras, numpy and pillow library.
 
 Step 1: Created Dataset of images using cv2 module from collecting samples code. Adjust location according to your comfort
